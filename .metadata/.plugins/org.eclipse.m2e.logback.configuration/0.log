@@ -1,0 +1,9 @@
+2016-12-08 20:48:52,075 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.jboss.tools.examples:jboss-javaee-webapp:0.0.1-SNAPSHOT @ C:\Users\amcdonald\Creative Cloud Files\projects\java\workspace\jboss-javaee-webapp\pom.xml.
+2016-12-08 20:48:56,033 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-08 20:48:56,039 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-08 20:48:56,051 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-08 20:48:56,051 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-08 20:48:57,617 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-08 20:48:57,621 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-08 20:48:57,626 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-08 20:48:57,627 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
